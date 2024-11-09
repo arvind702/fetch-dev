@@ -6,7 +6,7 @@ A solution to https://github.com/fetch-rewards/receipt-processor-challenge
 _Please note that this server is hosted on all available addresses on port 5000. This means it may be exposed externally (port 5000 on your machine's local IP)._
 
 
-* Download the contents of this repo and navigate to the containing folder.
+* Download the contents of this repo and navigate to its containing folder.
 
 * Then, create a Docker image:
 
